@@ -1,0 +1,8 @@
+-python 3.8.10 is general version to be used.
+
+-To check version pytho (space)--version.
+-PIP version pacakage manager
+- install jupyter notebook
+- Go to LAB2 folder use path navigation and hit cmd
+then type jupyter notebook
+-colab google to do online

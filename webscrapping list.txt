@@ -1,0 +1,14 @@
+pip ma beautifulsoup install
+pip install lxml
+pip istall requests
+pip install pandas
+pip install matplotlib
+pip install seaborn
+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 token for github
+
+git init
+git add README.md     #add:staging
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Onlyraindrop420/class2.git
+git push -u origin main
